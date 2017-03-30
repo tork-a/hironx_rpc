@@ -2,6 +2,9 @@
 Changelog for package hironx_rpc
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.2 (2017-03-25)
 ------------------
 * Initial release into ROS buildfarm Indigo.
