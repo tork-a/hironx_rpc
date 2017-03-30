@@ -2,6 +2,9 @@
 Changelog for package hironx_rpc_server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.3 (2017-03-30)
 ------------------
 
