@@ -2,8 +2,8 @@
 Changelog for package hironx_rpc_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2017-03-30)
+------------------
 * [fix] More build error. `#4 <https://github.com/tork-a/hironx_rpc/pull/4>`_
 * Contributors: Isaac I.Y. Saito
 
