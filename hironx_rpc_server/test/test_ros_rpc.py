@@ -4,7 +4,7 @@
 import numpy
 
 from hironx_rpc_server.sample_rpc import SampleClientHironxRPC
-from hironx_ros_bridge.testutil.test_hironx_ros_bridge import TestHiroROSBridge
+from hironx_ros_bridge.testutil.test_rosbridge import TestHiroROSBridge
 
 PKG = 'hironx_rpc_server'
 
