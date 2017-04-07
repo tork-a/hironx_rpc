@@ -179,6 +179,8 @@ class TestHiroROSBridgeRPC(TestHiroROSBridge):
         numpy.testing.assert_almost_equal(pose_initpose, ret_srv.pose.data, 3)
 
     def _test_rpc_getRTCList(self):
+        # TODO This list of RTCs hardcoded might cause regression in the
+        # future, so ideally get them on the fly from somewhere else.
         expected_value = [
             ['seq', 'SequencePlayer'],
             ['sh', 'StateHolder'],
